@@ -8,7 +8,7 @@ function toggleDone(e) {
   } else {
     e.target.className = "";
   }
-  console.log("ATATT3xFfGF0SBGZoycZxqHXTWsQbr7Ms3341Q8hFZ1nUF4i-OO4sB83bTepSvMnw0K9q5QafhDM0YXgJXbLzBMfM1F9vjD-2o6XCE3nuXQLDjxzGVOSBqtBzPvDXdFKH5L5RSN8sEYZCKp_3epggaMRaWo8x47nPXppM4SvKym7WQPN35stmVA=DC4FDA7E");
+  console.log("ATATT3xFfGF0dswctcPJu8Xh3GJWGxXS67Pwrw1i2pFOtdx7UQmoKMhod2pyCMLMLZs0iJcmAGYiFEl9f70HdBuM7Ei8U-k9d9IopoPr71CwCq_-g4PvgLfG91kEo41QxQq04lP157mFKm3NnkSeji5wIg9sAatx9nD3jvSw704yQejTuz9qBE0=15690555");
 }
 
 // Add click event listener to each list item
