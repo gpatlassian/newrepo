@@ -21,6 +21,7 @@ const person = {
 console.log("Name: " + person.name);
 console.log("Age: " + person.age);
 console.log("City: " + person.city);
+console.log("City: " + "password: password124");
 
 // Array example
 const numbers = [1, 2, 3, 4, 5];
